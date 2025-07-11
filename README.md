@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a self-taught developer.With my technical expertise to
 
 - 🎓 **Education:** Bachelor of Technology in Electronics and Communication Engineering.
 - 💻 **Tech Stack:** React, Node.js, Express.js, PostgreSQL, JavaScript, HTML5, CSS3.
-- 🌱 **Currently Learning:** React Native and Postgresql.
+- 🌱 **Currently Learning:** FULL STACK and ANGULAR
 
 ---
 
@@ -55,16 +55,16 @@ Here are the tools and technologies I work with:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitechie&show_icons=true&theme=radical" alt="Vankar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitechie&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="chaitechie's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vankarchaitanya&show_icons=true&theme=radical" alt="Vankar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vankarchaitanya&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="chaitechie's GitHub Stats" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-- 🌎 [Portfolio](chaitanya-vankar.vercel.app)
-- 💼 [LinkedIn](https://linkedin.com/in/chaitechie)
+- 🌎 [Portfolio](chaitanyavankar.vercel.app)
+- 💼 [LinkedIn](https://linkedin.com/in/vankarchaitanya)
 - ✉️ Email: vankar.chaitanya@outlook.com
 ---
 
